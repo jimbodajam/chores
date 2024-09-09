@@ -5,9 +5,9 @@
 - [x] Make it deploy
 - [x] Scaffold basic UI with mock data
 - [x] Tidy up build process
-- [] Actually set up a database
-- [] Attach database to ui
-- [] Add authentication
+- [x] Actually set up a database
+- [x] Attach database to ui
+- [x] Add authentication
 - [] Routing 
 - [] Analytics
 
